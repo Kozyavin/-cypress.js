@@ -1,0 +1,27 @@
+
+.idea
+node_modules/
+package-lock.json
+package.json
+/cypress/downloads/
+/cypress/fixtures/
+/cypress/support/
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+### NetBeans ###
+/nbproject/private/
+/support/
+/dist/
+/nbdist/
+/.nb-gradle/
+
+
+
+
